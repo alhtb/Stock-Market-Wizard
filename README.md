@@ -5,13 +5,13 @@
 ![Library](https://img.shields.io/badge/Library-TensorFlow-red)
 ![Status](https://img.shields.io/badge/Status-Complete-green)
 
-## 📌 Project Overview
+## ⋆‧°𓏲ּ𝄢 Project Overview
 
 This project analyzes the Philippine Stock Market to predict future price trends using advanced machine learning algorithms. While most investment strategies locally rely on fundamental analysis or traditional econometric models, there is a notable gap in applying machine learning to the Philippine market. 
 
 Traditional trading logic can be highly volatile and subjective. By developing predictive models, we aim to help investors make informed, data-driven decisions. We applied three distinct algorithms, **Linear Regression (LR)**, **Support Vector Machine (SVM)**, and **Long Short-Term Memory (LSTM)**, to evaluate which provides the highest predictive accuracy for local equities.
 
-## 📊 The Dataset
+## ⋆‧°𓏲ּ𝄢 The Dataset
 
 We utilized historical market data for the **Philippine Stock Exchange (PSE)** and the **Philippine Stock Exchange Index (PSEi)** spanning a decade, from **October 13, 2014, to October 11, 2024**. 
 
@@ -24,7 +24,7 @@ These indicators were processed and sequenced to train our models to forecast st
 
 ---
 
-## 🔍 Key Findings & Insights
+## ⋆‧°𓏲ּ𝄢 Key Findings & Insights
 
 ### 1. The Superiority of Simplicity (Linear Regression Wins)
 Despite the complex nature of the stock market, the simplest model outperformed the others. 
@@ -45,7 +45,7 @@ Using the trained models, we successfully plotted a three-week forecast for stoc
 
 ---
 
-## 🛠️ The Methodology: A 3-Step Pipeline
+## ⋆‧°𓏲ּ𝄢 The Methodology: A 3-Step Pipeline
 
 Based on our objectives, we developed a systematic pipeline for time-series forecasting:
 
@@ -55,7 +55,7 @@ Based on our objectives, we developed a systematic pipeline for time-series fore
 
 ---
 
-## 📂 Project Files & Code
+## ⋆‧°𓏲ּ𝄢 Project Files & Code
 
 | File | Description | Access |
 | :--- | :--- | :--- |
@@ -65,7 +65,7 @@ Based on our objectives, we developed a systematic pipeline for time-series fore
 | **Deep Learning (LSTM)** | Neural network implementation with Dropout and Regularization. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb/stock-market-wizard/blob/main/notebooks/PSE_LSTM.ipynb)<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb/stock-market-wizard/blob/main/notebooks/PSEi_LSTM.ipynb) |
 | **Datasets** | Raw historical data (2014-2024). | [PSE.csv](data/PSE.csv)<br>[PSEi.csv](data/PSEi.csv) |
 
-## 💻 Tech Stack
+## ⋆‧°𓏲ּ𝄢 Tech Stack
 
 * **Pandas & NumPy:** Data manipulation, cleaning, and array structuring.
 * **Scikit-Learn:** `LinearRegression`, `SVR`, `MinMaxScaler`, and evaluation metrics.
@@ -74,7 +74,7 @@ Based on our objectives, we developed a systematic pipeline for time-series fore
 
 ---
 
-## 📢 Conclusion
+## ⋆‧°𓏲ּ𝄢 Conclusion
 
 Machine learning offers a powerful alternative to traditional fundamental analysis in the Philippine Stock Market. By demonstrating that accessible models like Linear Regression can achieve over 96% variance explanation, we can equip local investors with the mathematical foresight needed to make highly informed, profitable decisions.
 
