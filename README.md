@@ -59,9 +59,10 @@ Based on our objectives, we developed a systematic pipeline for time-series fore
 
 | File | Description | Access |
 | :--- | :--- | :--- |
-| **Research Paper** | Full documentation: Methodology, Results, and detailed Evaluation Metrics. | [View PDF](docs/Group%202%20-STOCK%20MARKET.pdf) |
-| **Linear Regression** | Best performing model notebooks for PSE and PSEi. | [PSE_LR.ipynb](notebooks/PSE_LR.ipynb)<br>[PSEi_LR.ipynb](notebooks/PSEi_LR.ipynb) |
-| **Deep Learning (LSTM)** | Neural network implementation with Dropout and Regularization. | [PSE_LSTM.ipynb](notebooks/PSE_LSTM.ipynb)<br>[PSEi_LSTM.ipynb](notebooks/PSEi_LSTM.ipynb) |
+| **Research Paper** | Full documentation: Methodology, Results, and detailed Evaluation Metrics. | [View PDF](https://github.com/alhtb/Stock-Market-Wizard/blob/main/docs/Stock%20Market%20Wizard%20Paper.pdf) |
+| **Linear Regression** | Best performing model notebooks for PSE and PSEi. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb/stock-market-wizard/blob/main/notebooks/PSE_LR.ipynb)<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb/stock-market-wizard/blob/main/notebooks/PSEi_LR.ipynb) |
+| **Support Vector Machine** | SVR model implementations for continuous forecasting. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb/stock-market-wizard/blob/main/notebooks/PSE_SVM.ipynb)<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb/stock-market-wizard/blob/main/notebooks/PSEi_SVM.ipynb) |
+| **Deep Learning (LSTM)** | Neural network implementation with Dropout and Regularization. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb/stock-market-wizard/blob/main/notebooks/PSE_LSTM.ipynb)<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb/stock-market-wizard/blob/main/notebooks/PSEi_LSTM.ipynb) |
 | **Datasets** | Raw historical data (2014-2024). | [PSE.csv](data/PSE.csv)<br>[PSEi.csv](data/PSEi.csv) |
 
 ## 💻 Tech Stack
