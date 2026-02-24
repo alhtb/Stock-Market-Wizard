@@ -78,6 +78,7 @@ Based on our objectives, we developed a systematic pipeline for time-series fore
 
 Machine learning offers a powerful alternative to traditional fundamental analysis in the Philippine Stock Market. By demonstrating that accessible models like Linear Regression can achieve over 96% variance explanation, we can equip local investors with the mathematical foresight needed to make highly informed, profitable decisions.
 
-*Authors: Group 2 ([Alberto](https://github.com/paulo10011), [Bruce](https://github.com/SetNickname), Estocado, [Mosinabre](https://github.com/judiemosinabre), [Tuburan](https://github.com/alhtb))*
+***Authors:** Group 2 ([Alberto](https://github.com/paulo10011), [Bruce](https://github.com/SetNickname), Estocado, [Mosinabre](https://github.com/judiemosinabre), [Tuburan](https://github.com/alhtb))*
 
-*Institution: National University Philippines, Dasmariñas*
+***Institution:** National University Philippines, Dasmariñas* <br>
+***Course:** Introduction to Machine Learning*
